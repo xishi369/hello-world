@@ -1,2 +1,3 @@
 # hello-world
-It is my firs repository on Git Hub!
+It is my first repository on Git Hub!
+I added my repository and branch as guided by gitb=hub.com
